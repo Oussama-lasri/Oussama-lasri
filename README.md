@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **typeScript , reactJs , Reacte Native , graphQl ...**
 
-- 💬 Ask me about **vueJs , laravel**
+- 💬 Ask me about **vueJs , laravel , InertiaJs**
 
 - 📫 How to reach me **ousamalasri2@gmail.Com**
 
