@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/oussamalasri07" target="blank"><img src="https://img.shields.io/twitter/follow/oussamalasri07?logo=twitter&style=for-the-badge" alt="oussamalasri07" /></a> </p>
 
-- 🌱 I’m currently learning **typeScript , reactJs , Reacte Native , graphQl ...**
+- 🌱 I’m currently learning **java , java ee , spring boot , reactJs  , graphQl ...**
 
 - 💬 Ask me about **vueJs , laravel , InertiaJs**
 
