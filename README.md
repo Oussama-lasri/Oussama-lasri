@@ -38,4 +38,4 @@ I am open to collaboration on exciting projects and aspire to work in environmen
 <br />
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oussama-lasri&hide_progress=true)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oussama-lasri&show_icons=true&locale=en&layout=compact" alt="oussama-lasri" /></p>
