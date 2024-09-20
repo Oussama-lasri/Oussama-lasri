@@ -34,4 +34,8 @@ I am open to collaboration on exciting projects and aspire to work in environmen
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 <img align="left" alt="Jira" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" />
 <br />
+<br />
+<br />
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oussama-lasri&hide_progress=true)
