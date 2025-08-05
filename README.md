@@ -6,11 +6,7 @@
 
 **`Software developer`**
 
-I'm a Software developer passionate about building web and mobile applications. With over a year of experience in programming, I have developed strong expertise in technologies such as Java (Spring Boot), Vue.js, Angular, and Laravel. My education, combined with hands-on projects in both corporate and freelance environments, has equipped me with proficiency in both front-end and back-end development.
-
-I'm always looking for new challenges to enhance my skills, particularly in integrating innovative solutions like blockchain and smart contracts. My curiosity and quick learning ability have enabled me to contribute effectively to complex projects .
-
-I am open to collaboration on exciting projects and aspire to work in environments where creativity and technology meet to create real value.
+I'm a Software developer passionate about building web ,  mobile and ai applications.
 
 
 ---
